@@ -14,7 +14,9 @@ Pour utiliser cet outil, vous aurez besoin de [Termux](https://termux.com/) inst
 
 
 -pkg install python
+
 -pip install -r requirements.txt
+
 -python3 fb_hack
 
 
